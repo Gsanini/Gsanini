@@ -1,4 +1,4 @@
-##  Olá Mundo! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 <a href="https://twitter.com/ajaykhalsa_ak">
   <img align="left" alt="Ajay's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -21,10 +21,10 @@
 <br />
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
-###  Eu sou Gabriel Sanini
-- Um entusiasta de ML e Open Source.
-- Estudante de Graduação em Engenharia da Computação.
-- Atualmente trabalhando em alguns dos meus projetos legais baseados em Desenvolvimento Web e Machine Learning.
-- Atualmente estou procurando oportunidades. Gosto de aprender e contribuir de todas as formas possíveis.
+### I am Ajay Singh Khalsa
+- An ML & Open Source enthusiast.
+- A Computer Engineering Undergraduate Student. 
+- Currently working on some of my cool side projects based on Web Development and Machine Learning.
+- I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
 
-⭐️ De [ Gsanini ](https://github.com/Gsanini)
+⭐️ From [AjayKhalsa](https://github.com/AjayKhalsa) 
