@@ -21,7 +21,7 @@
 <br />
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
-###  Eu sou Ajay Singh Khalsa
+###  Eu sou Gabriel Sanini
 - Um entusiasta de ML e Open Source.
 - Estudante de Graduação em Engenharia da Computação.
 - Atualmente trabalhando em alguns dos meus projetos legais baseados em Desenvolvimento Web e Machine Learning.
