@@ -13,7 +13,7 @@
   <img align="left" alt="Ajay's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <br />
-<p><img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"/></p>
+<p><img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" margin="30px"/></p>
 
 ### Eu sou Gabriel Sanini
 - 18 years old and passionate about football and games
