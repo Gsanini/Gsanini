@@ -12,13 +12,12 @@
 <a href="https://t.co/aZLfDffwdT">
   <img align="left" alt="Ajay's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.facebook.com/gabriel.sanini.14">
-  <img align="left" alt="Ajay's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
 <br />
-<img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" padding="20px"/>
 
 ### Eu sou Gabriel Sanini
-- I'm 18 years old, I'm passionate about development and passionate about football.
-- Full stack web development student at GrowDev - 7° edition
+- 18 years old and passionate about football and games
+- Full stack web development student at GrowDev - 7° edition 
 - I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
+### Em aprendizadado 
+- HTML | CSS | JavaScript | Bootstrap | React.js | Material.UI
