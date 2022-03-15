@@ -13,7 +13,7 @@
   <img align="left" alt="Ajay's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://t.co/aZLfDffwdT">
-  <img align="left" alt="Ajay's Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/Gmail.svg" />
+  <img align="left" alt="Ajay's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/Email.svg" />
 </a>
 <br />
 ### Eu sou Gabriel Sanini
