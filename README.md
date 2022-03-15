@@ -13,6 +13,7 @@
   <img align="left" alt="Ajay's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <br />
+
 ### Eu sou Gabriel Sanini
 - 18 years old and passionate about football and games
 - Full stack web development student at GrowDev - 7° edition 
