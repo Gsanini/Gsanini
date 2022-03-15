@@ -20,5 +20,8 @@
 - I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
 ### Em aprendizadado 
 - HTML | CSS | JavaScript | Bootstrap | React.js | Material.UI
+ <img align="left" alt="HTML" width="22px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+ <img align="left" alt="CSS" width="22px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+
 
 
