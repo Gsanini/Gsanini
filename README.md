@@ -12,7 +12,7 @@
 <a href="https://t.co/aZLfDffwdT">
   <img align="left" alt="Gabriel Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="malito:sanini448@gmail.com">
+<a href="mailto:sanini448@gmail.com">
   <img align="left" alt="Gabriel Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 <br />
