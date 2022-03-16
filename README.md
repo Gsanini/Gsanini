@@ -21,7 +21,7 @@
 ### Eu sou Gabriel Sanini
 - 18 years old and passionate about football and games.
 - Full stack web development student at GrowDev - 7° edition. 
-- I really like watching superhero movies. 
+- I like watching superhero movies. 
 - I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
 ###  Linguagens que estou utilizando:
 
