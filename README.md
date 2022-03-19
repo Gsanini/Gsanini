@@ -6,9 +6,6 @@
 <a href="https://www.linkedin.com/in/gabriel-campos-sanini-970328206/">
   <img align="left" alt="Gabriel Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/Gsanini">
-  <img align="left" alt="Gabriel Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
 <a href="https://t.co/aZLfDffwdT">
   <img align="left" alt="Gabriel Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
